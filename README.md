@@ -8,7 +8,7 @@ Loyihani ishga tushirish uchun qo‘shimcha backend yoki server talab qilinmaydi
 
 ---
 
-## 🚀 GitHub’dan loyihani olish
+## 🚀 GitHub’dan loyihani olish.
 
 Sizda 2 ta variant bor:
 
